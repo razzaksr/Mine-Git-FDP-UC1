@@ -1,4 +1,4 @@
-public class main {
+public class Main {
 
     private static DAO dao = new DAO();
 
